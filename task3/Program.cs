@@ -41,13 +41,3 @@ double sum = 0;
         } 
 }
 
-// double result = 0;
-// for (int i = 0; i < myArray.GetLength(1); i++)
-// {
-//     for (int j = 0; j < myArray.GetLength(0); j++)
-//     {
-//         result += myArray[j, i];
-//     }
-//     System.Console.Write(result / myArray.GetLength(0) + "\t");
-//     result = 0;
-// }
